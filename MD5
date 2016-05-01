@@ -1,0 +1,10 @@
+8a08b50bfd188272064cb101378c5fc5 *DESCRIPTION
+baa7cace9789c6eaeb37e809b7706873 *NAMESPACE
+c47b0a9c1f43864d5dc250943228aa68 *R/hetmeta-package.R
+1d05d1aeff25a20c732ef66155894335 *R/hetmeta.R
+82cdcd5ca7b38fbce28a0cc3240aab43 *R/methods.R
+5f0f9820ded14df7031f0d3b634dca4e *man/confint.hetmeta.Rd
+7e5e7b2d5dc9884d2948c91662ec47fc *man/hetmeta-package.Rd
+20190ae660b3d1eae27ed9e28c039d47 *man/hetmeta.Rd
+4acd8ca04b40c62dcdbee677eef9b4f6 *man/hetmetaObject.Rd
+a13180653a6f1f378f2c011c93aeff34 *man/print.hetmeta.Rd
